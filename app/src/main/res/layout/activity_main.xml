@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/C203"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/c203_web_appln_development_in_php"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/C228"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/c228_operating_systems_security"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/C328"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/c328_intelligent_networks"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/C331"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/c331_digital_security_and_forensics"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/C346"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/c346_mobile_app_development"
+        android:textSize="24sp" />
+
+</LinearLayout>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Modules</string>
+    <string name="c203_web_appln_development_in_php">C203 Web Appln Development in php</string>
+    <string name="c228_operating_systems_security">C228 Operating Systems Security</string>
+    <string name="c328_intelligent_networks">C328 Intelligent Networks</string>
+    <string name="c331_digital_security_and_forensics">C331 Digital Security and Forensics</string>
+    <string name="c346_mobile_app_development">C346 Mobile App Development</string>
+    <string name="tvModules">TextView</string>
+    <string name="back">Back</string>
+</resources>
